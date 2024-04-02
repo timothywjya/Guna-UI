@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\GunaUI\GunaUI\bin\Debug\GunaUI.exe.config
+C:\Users\Acer\source\repos\GunaUI\GunaUI\bin\Debug\GunaUI.exe
+C:\Users\Acer\source\repos\GunaUI\GunaUI\bin\Debug\GunaUI.pdb
+C:\Users\Acer\source\repos\GunaUI\GunaUI\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.Properties.Resources.resources
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.csproj.CopyComplete
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.exe
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.pdb
+C:\Users\Acer\source\repos\GunaUI\GunaUI\obj\Debug\GunaUI.LoginForm.resources
